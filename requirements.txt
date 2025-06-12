@@ -1,6 +1,7 @@
 streamlit==1.35.0
 pandas==2.2.2
 langchain==0.1.18
+langchain-core==0.1.20
 openai==1.30.1
 faiss-cpu==1.7.4
 google-api-python-client==2.123.0
@@ -11,4 +12,3 @@ unstructured==0.11.7
 PyMuPDF==1.24.2
 tika==2.6.0
 python-pptx==0.6.23
-langchain-core>=0.1.20
