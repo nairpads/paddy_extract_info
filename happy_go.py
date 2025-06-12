@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from langchain.docstore.document import Document
+from langchain_core.documents import Document 
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chains import RetrievalQA
