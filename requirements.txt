@@ -3,6 +3,5 @@ pandas
 os
 tempfile
 glob
-base64
 pickle
 datetime
