@@ -1,0 +1,17 @@
+streamlit
+pandas
+langchain.docstore.document 
+langchain.embeddings.openai 
+langchain.vectorstores 
+langchain.chains 
+langchain.chat_models 
+langchain.document_loaders 
+os
+tempfile
+glob
+base64
+googleapiclient.discovery 
+google_auth_oauthlib.flow 
+google.auth.transport.requests 
+pickle
+datetime
