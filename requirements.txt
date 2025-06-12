@@ -11,3 +11,4 @@ unstructured==0.11.7
 PyMuPDF==1.24.2
 tika==2.6.0
 python-pptx==0.6.23
+ langchain.docstore.document
