@@ -4,8 +4,5 @@ os
 tempfile
 glob
 base64
-googleapiclient.discovery 
-google_auth_oauthlib.flow 
-google.auth.transport.requests 
 pickle
 datetime
