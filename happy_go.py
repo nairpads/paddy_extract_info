@@ -28,7 +28,7 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
 # Sidebar - API Key and Options
-openai_api_key = "sk-XBlDJqesAP5hLU0-gdsSpIeFVYETa4AsKKly-uTsVpT3BlbkFJ7cQzksch7r2a3U5HZ9RkANSMZuKmbvb-EBp1yLN-cA"
+openai_api_key = ""
 add_export = st.sidebar.checkbox("📤 Enable Export Chat to File")
 if st.sidebar.button("🧹 Clear Chat History"):
     st.session_state.chat_history.clear()
